@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-I am a Data Engineer and Data Science graduate from \*\*Bournemouth University, UK\*\*, with a background in Artificial Intelligence. Passionate about building efficient data pipelines, transforming complex datasets into actionable insights, and developing scalable data solutions. I have a strong interest in Python, SQL, ETL processes, machine learning, data analytics, and cloud technologies. I enjoy solving real-world problems through data-driven innovation and continuously expanding my technical skills.
+I am a Data Engineer and Data Science graduate from Bournemouth University, UK, with a background in Artificial Intelligence. Passionate about building efficient data pipelines, transforming complex datasets into actionable insights, and developing scalable data solutions. I have a strong interest in Python, SQL, ETL processes, machine learning, data analytics, and cloud technologies. I enjoy solving real-world problems through data-driven innovation and continuously expanding my technical skills.
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [chimzy938@gmail.com](mailto:chimzy938@gmail.com)
